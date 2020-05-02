@@ -1,0 +1,18 @@
+# logs
+logs
+*.logs
+
+# runtime data
+pids
+*.pid
+*.seed
+
+# compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Dependency directory
+node_modules
+
+# Build folder
+build
+
